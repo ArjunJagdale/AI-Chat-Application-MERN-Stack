@@ -2,8 +2,10 @@
 
 A modern, full-stack AI chat application built with the MERN stack, featuring real-time messaging, multiple AI model support, and a sleek, animated user interface.
 
-## Demo Video
+## END-TO-END Demo Video
+https://github.com/user-attachments/assets/8457119e-20a5-446a-bf07-7f1c89862a42
 
+---
 
 ## Features
 
@@ -17,6 +19,7 @@ A modern, full-stack AI chat application built with the MERN stack, featuring re
 - **Copy to Clipboard** - Easy copying of AI responses
 - **Model Selection** - Dynamic switching between different AI models
 
+---
 ## Tech Stack
 
 ### Frontend
@@ -38,6 +41,7 @@ A modern, full-stack AI chat application built with the MERN stack, featuring re
 - **JWT** - JSON Web Token authentication
 - **bcryptjs** - Password hashing
 
+---
 ## Project Structure
 
 ```
@@ -72,6 +76,7 @@ claude-clone/
 └── README.md
 ```
 
+---
 ## Installation
 
 ### Prerequisites
@@ -124,6 +129,7 @@ npm start
 
 The application will be available at `http://localhost:3000`
 
+---
 ## Usage
 
 ### Authentication
@@ -160,6 +166,7 @@ The application will be available at `http://localhost:3000`
 - `POST /api/ai/chat` - Send message to AI and get response
 - `GET /api/ai/models` - Get available AI models
 
+---
 ## Environment Variables
 
 ### Backend (.env)
@@ -172,6 +179,7 @@ OPENROUTER_API_KEY=sk-or---------
 FRONTEND_URL=http://localhost:3000
 ```
 
+---
 ## Features in Detail
 
 ### Real-time Communication
@@ -198,10 +206,12 @@ FRONTEND_URL=http://localhost:3000
 - Streaming responses (if supported by provider)
 - Error handling for API failures
 
+---
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+---
 ## Acknowledgments
 
 - OpenAI for providing AI capabilities
